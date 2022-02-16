@@ -14,6 +14,6 @@ python app.py
 And use a HTTP client to make a HTTP call to the API with the file you want test.
 The API just return the model prediction
 
-## E.g.
+## Postman E.g.
 
 ![]('https://github.com/MENT3/handwritten-digit-classifier/blob/main/doc/postman.png')

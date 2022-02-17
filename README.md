@@ -16,4 +16,4 @@ The API just return the model prediction
 
 ## Postman E.g.
 
-![postman example]('https://raw.githubusercontent.com/MENT3/handwritten-digit-classifier/main/doc/postman.png')
+![postman exampl](doc/postman.png)
